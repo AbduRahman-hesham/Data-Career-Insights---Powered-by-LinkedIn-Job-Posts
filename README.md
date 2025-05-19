@@ -161,4 +161,4 @@ The final dashboard provides an insightful overview of job market trends for dat
 
 
 
-You can find the full project files and dashboard visuals [here on GitHub](./resourses/) *(insert your link)*.
+You can find the full project files and dashboard visuals [here on GitHub](./) *(insert your link)*.
